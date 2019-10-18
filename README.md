@@ -1,3 +1,3 @@
 # Ehcache
 
-Spring boot + Ehcache 설정
+Spring boot + JPA + Ehcache 설정
